@@ -1,3 +1,3 @@
-# Behavioral-Science
+# Behavioral-Sciences
 
-En este repositorio encontrará información sobre la Ciencia del Comportamiento.
+En este repositorio encontrará información sobre las Ciencias del Comportamiento.
